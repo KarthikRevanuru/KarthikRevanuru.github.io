@@ -3,7 +3,7 @@ name: Karthik Revanuru
 bio: A Computer Scientist who is looking for opportunities/collaborations in ML & AI. Currently student @IIITB.  
 
 # twitter summary info
-description: My Home Page and technology blog
+description: Home Page
 
 # if it's an external image, update below for true
 # better with square images
@@ -22,7 +22,7 @@ url: https://karthikrevanuru.github.io/
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-116843287-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
