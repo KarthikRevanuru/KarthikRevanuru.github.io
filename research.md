@@ -2,8 +2,11 @@
 layout: page
 title: Research
 ---
+**Karthik Revanuru**
 <h1>Publications</h1>
+**Karthik Revanuru**
  <div class="entry">
+**Karthik Revanuru**
   <ol>
    <li>
     <p>Neural Machine Translation of Indian Languages. **Karthik Revanuru** , Kaushik Turlapaty, and Shrisha Rao. In Compute ’17: 10th Annual ACM India Compute Conference, November 16–18, 2017. <a href="../assets/documents/p12-revanuru.pdf" target="_blank">Paper</a> <a href="../assets/documents/p12-revanuru-slides.pdf" target="_blank">Slides</a>.</p>
