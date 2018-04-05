@@ -2,7 +2,6 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <h2>Who am i ?</h2>
 <p>I'm an ambitious and inquisitive boy</p>
