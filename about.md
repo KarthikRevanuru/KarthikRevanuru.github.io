@@ -13,7 +13,7 @@ I am pursuing my Integrated Masters in Technology (iMTech) in Information Techno
 
 Currently I'm doing my thesis with [Prof Dinesh Babu](https://www.iiitb.ac.in/faculty_page.php?name=dineshbabujayagopi){:target="_blank"}, IIITB on Scene Understanding. 
 
-Also, I'm a **Research Intern** at *Mazumdar Shah Center for Translational Research*. I work with [Dr Nameeta Shah](https://www.msctr.org/2016/09/16/dr-nameeta-shah/"){:target="_blank"}, on Multi Modal Brain Tumor Segmentation.
+Also, I'm a **Research Intern** at *Mazumdar Shah Center for Translational Research*. I work with [Dr Nameeta Shah](https://www.msctr.org/2016/09/16/dr-nameeta-shah/){:target="_blank"}, on Multi Modal Brain Tumor Segmentation.
 
 In the past, i have worked with *Robert Bosch* as a **Data Analyst Intern**.
 
