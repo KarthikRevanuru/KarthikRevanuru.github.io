@@ -4,43 +4,13 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Who am i ?</h2>
+<p>I'm an ambitious and inquisitive boy</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Research Interests</h2>
+<p>I am interested in Machine Learning and AI, particularly Computer Vision, Natural Language Processing and Medical Image Analysis.</p>
 
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<h2>What do i do ?</h2>
+<p>I am pursuing my Integrated Masters in Technology (iMTech) in Information Technology from International Institute of Information Technology, Bangalore (IIIT-B), India.</p>
+<p>Currently I'm working with <a href="https://www.iiitb.ac.in/faculty_page.php?name=dineshbabujayagopi">Prof Dinesh</a>,IIITB on Scene Understanding and <a href="https://www.msctr.org/2016/09/16/dr-nameeta-shah/">Dr Nameeta</a>,MSCTR</p> on Multi Modal Brain Tumor Segmentation.</p>
+<p>In the past i have worked with Robert Bosch as a Data Analyst.</p>
