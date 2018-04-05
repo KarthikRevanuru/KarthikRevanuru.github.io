@@ -2,18 +2,21 @@
 title: About
 layout: page
 ---
+## Who am i ?
+I'm an ambitious and inquisitive boy.
 
-<h2>Who am i ?</h2>
-<p>I'm an ambitious and inquisitive boy</p>
+## What are my Research Interests ?
+I am interested in Machine Learning and AI, particularly Computer Vision, Natural Language Processing and Medical Image Analysis.
 
-<h2>What are my Research Interests ?</h2>
-<p>I am interested in Machine Learning and AI, particularly Computer Vision, Natural Language Processing and Medical Image Analysis.</p>
+## What do i do ?
+I am pursuing my Integrated Masters in Technology (iMTech) in Information Technology from International Institute of Information Technology, Bangalore (IIIT-B), India.
 
-<h2>What do i do ?</h2>
-<p>I am pursuing my Integrated Masters in Technology (iMTech) in Information Technology from International Institute of Information Technology, Bangalore (IIIT-B), India.</p>
-<p>Currently I'm working with <a href="https://www.iiitb.ac.in/faculty_page.php?name=dineshbabujayagopi" target="_blank">Prof Dinesh Babu</a>, IIITB on Scene Understanding and <a href="https://www.msctr.org/2016/09/16/dr-nameeta-shah/" target="_blank">Dr Nameeta Shah</a>, MSCTR on Multi Modal Brain Tumor Segmentation.</p>
-<p>In the past, i have worked with Robert Bosch as a Data Analyst.</p>
+Currently I'm doing my thesis with [Prof Dinesh Babu](https://www.iiitb.ac.in/faculty_page.php?name=dineshbabujayagopi){:target="_blank"}, IIITB on Scene Understanding. 
 
-<h3>Want to know more about me ?</h3> 
-<p> Feel free to contact through any of these channels</p>
+Also, I'm a **Research Intern** at Mazumdar Shah Center for Translational Research. I work with [Dr Nameeta Shah](https://www.msctr.org/2016/09/16/dr-nameeta-shah/"){:target="_blank"}, on Multi Modal Brain Tumor Segmentation.
+
+In the past, i have worked with *Robert Bosch* as a **Data Analyst Intern**.
+
+## Want to know more about me ? 
+Feel free to contact through any of these channels
 {% include social-links.html %}
