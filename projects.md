@@ -5,16 +5,16 @@ title: Projects
 
 # Projects
 * ## Multi Modal Brain Tumor Segmentation
-Working on segmentation of intrinsically heterogeneous (in appearance, shape, and histology) brain tumors namely Gliomas from multi-institutional pre-operative MRI scans.Wrote python scripts to pre-process MR Images. Trained a Random forest to segment Gliomas with a dice coefficiant of 0.76. Developing a deep-learning based approach to generate better segmentations. 
+Working on segmentation of intrinsically heterogeneous (in appearance, shape, and histology) brain tumors namely Gliomas from multi-institutional pre-operative MRI scans.Wrote python scripts to pre-process MR Images. Trained a Random forest to segment Gliomas with a dice coefficiant of 0.76. Developing a deep-learning based approach to generate better segmentations. [Report](../assets/documents/projects/BRATS.pdf)
 
 * ## Quora Question Pairs
-Thousands of new questions are posted in Quora everyday. In order to build a highquality knowledge base,it’s important to ensure each unique question exists on Quora only once. Writers shouldn’t have to write the same answer to multiple versions of the same question, and readers should be able to find a single canonical page with the question they’re looking for. In this project we applied Statistical Machine Learning and Deep Learning approaches to the problem of semantic matching on questions asked in Quora. Our model had an accuracy of 82 Percent.
+Thousands of new questions are posted in Quora everyday. In order to build a highquality knowledge base,it’s important to ensure each unique question exists on Quora only once. Writers shouldn’t have to write the same answer to multiple versions of the same question, and readers should be able to find a single canonical page with the question they’re looking for. In this project we applied Statistical Machine Learning and Deep Learning approaches to the problem of semantic matching on questions asked in Quora. Our model had an accuracy of 82 Percent. [Report](../assets/documents/projects/Quora_Pairs.pdf)
 
 * ## Automatic Shot Detection in Cricket
 We have detected four types of cricket shots namely Straight Drive, Cover Drive, Pull shot and Cut Shot in Cricket. Our HMM based model has an accuracy of 80 percent and we are currently working on rating these shots and give some feedback based on how good was the shot played.
 
 * ## Speed Dating Analytics
-Performed Business Understanding, Descriptive Analytics, Cluster Analytics, Predictive Analytics using Classification and Association rules on a Speed Dating Experiment Dataset form Kaggle.
+Performed Business Understanding, Descriptive Analytics, Cluster Analytics, Predictive Analytics using Classification and Association rules on a Speed Dating Experiment Dataset form Kaggle. [Business Understanding](../assets/documents/projects/business_understanding.pdf), [Descriptive Analytics](../assets/documents/projects/descriptive_analytics.pdf), [Association](../assets/documents/projects/association_rules.pdf), [Clustering](../assets/documents/projects/clustering.pdf), [Classification](../assets/documents/projects/classification.pdf)
 
 * ## Harvest Prediction
 Successfully developed a predictive analytics system (Proof Of Concept) for Bosch Deep field Connect. Bosch Deep-field Connect assists the farmer in remotely monitoring the conditions on the field for strawberry and asparagus cultivation in real time and it also helps farmers in intelligent decision making with the motto of maximizing the harvest. I was responsible for predicting the harvest of the crop given soil conditions, temperature, moisture and harvest in the previous seasons.
