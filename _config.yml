@@ -1,6 +1,6 @@
 # main text of home
 name: Karthik Revanuru
-bio: About to graduate, looking for full time opportunities. Hire me !!!
+bio: Data Science @ CRED. Interested in research opportunities, experience in ML Research.
 
 # twitter summary info
 description: Home Page
@@ -57,7 +57,7 @@ email: karthik.revanuru@outlook.com
 authors:
     Karthik:
         name: Karthik Revanuru
-        bio: About to graduate, looking for full time opportunities. Hire me !!!
+        bio: Data Science @ CRED. Interested in research opportunities, experience in ML Research.
         external-image: false
         picture: assets/images/karthik.jpg
         twitter: karthikrevanuru

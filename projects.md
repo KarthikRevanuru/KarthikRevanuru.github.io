@@ -4,6 +4,16 @@ title: Projects
 ---
 
 # Projects
+
+* ## NLP modules for Noisy Data
+Built data extraction modules for various highly domain specific large contracts, that can even deal with noisy text (result of OCR). Built document categorization system that can automatically categorize and rename hundreds of different types of large documents and is extremely fast. Built a NLP module that can extract and cross verifies extremely sensitive information from multiple legal documents and reports the anomalies. Built a named entity recognition system using different machine learning and NLP techniques for highly domain specific data, which can work with very low amount of training data. Designed and built a novel algorithm using manchine-learning, that can extract structured data from hundreds of different types of tables like multi-line cells, cells separated only by a single space etc.
+
+* ## Voice Assitant for Customer Support
+Built a voice assitant to answer customer queries in realtime. Have designed and built the entire pipeline from converting speech to text, classifing if it's a pre existing query in database and final model deployment. Model was well received as it reduced work load on call center agents. One of the major challanges was sentence boundary detection and i solved it in an entirely differnt way and created an IP for it.
+
+* ## NSFW detector
+Developed a NSFW detector which masks the NSFW content from video and images. I’ve done entire data annotation in an unsupervised way​ and created an IP for it
+
 * ## Multi Modal Brain Tumor Segmentation
 Working on segmentation of intrinsically heterogeneous (in appearance, shape, and histology) brain tumors namely Gliomas from multi-institutional pre-operative MRI scans.Wrote python scripts to pre-process MR Images. Trained a Random forest to segment Gliomas with a dice coefficiant of 0.76. Developing a deep-learning based approach to generate better segmentations. [Report](../assets/documents/projects/BRATS.pdf){:target="_blank"}
 

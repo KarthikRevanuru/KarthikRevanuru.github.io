@@ -2,21 +2,13 @@
 title: About
 layout: page
 ---
-## Who am i ?
-I'm an ambitious and inquisitive boy.
+Hello, I'm Karthik Revanuru and I currently work with[CRED](https://www.cred.club/) in Data Science.
 
-## What are my Research Interests ?
-I am interested in Machine Learning and AI, particularly Computer Vision, Natural Language Processing and Medical Image Analysis.
+In the past, I've worked with multiple startups and MNC's in full time and consulting roles, where I designed and developed multiple AI products. Some of these include [SPARTA](https://sparta.aero/) back-office document processing using AI,  a content filter for a social network, a voice assistant(customer support bot) for an automotive dealership, on the edge(without internet) video activity detector, precision agriculture product which predicts harvest and gives various alerts. 
 
-## What do i do ?
-I am pursuing my Integrated Masters in Technology (iMTech) in Information Technology from International Institute of Information Technology, Bangalore (IIIT-B), India.
+My research interests are in Machine Learning and AI. I'm always on the lookout for research opportunities. My recent works are in Large Scale Machine Learning using Location Sensitive hashing. I've been fortunate to work and learn from [Rameshwar Pratap](https://sites.google.com/site/prataprameshwaryadav/home), [Tanmoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/), [Debajyoti Bera](https://www.iiitd.ac.in/dbera), and [Shrisha Rao](https://www.iiitb.ac.in/faculty/shrisha-rao). My long term research goal is to work in Quantum AI and Data Storage using Artificial DNA. Feel free to look into [Research](https://karthikrevanuru.github.io/research/) for more details. 
 
-Currently I'm doing my thesis with [Prof Dinesh Babu](https://www.iiitb.ac.in/faculty_page.php?name=dineshbabujayagopi){:target="_blank"}, IIITB on Scene Understanding. 
+I graduated from [IIITB](https://www.iiitb.ac.in/) with Integrated Masters in Computer Science with a thesis in Activity Recognition. I've worked with [Dr Nameeta Shah](https://www.msctr.org/2016/09/16/dr-nameeta-shah/){:target="_blank"}, on Multi-Modal Brain Tumor Segmentation at *Mazumdar Shah Center for Translational Research*
 
-Also, I'm a **Research Intern** at *Mazumdar Shah Center for Translational Research*. I work with [Dr Nameeta Shah](https://www.msctr.org/2016/09/16/dr-nameeta-shah/){:target="_blank"}, on Multi Modal Brain Tumor Segmentation.
-
-In the past, i have worked with *Robert Bosch* as a **Data Analyst Intern**.
-
-## Want to know more about me ? 
-Feel free to contact through any of these channels
+Please feel free to contact me for research opportunities and consultancy services through any of these channels.
 {% include social-links.html %}
