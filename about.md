@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-Hello, I'm Karthik Revanuru and I currently work with[CRED](https://www.cred.club/) in Data Science.
+Hello, I'm Karthik Revanuru and I currently work with [CRED](https://www.cred.club/) in Data Science.
 
 In the past, I've worked with multiple startups and MNC's in full time and consulting roles, where I designed and developed multiple AI products. Some of these include [SPARTA](https://sparta.aero/) back-office document processing using AI,  a content filter for a social network, a voice assistant(customer support bot) for an automotive dealership, on the edge(without internet) video activity detector, precision agriculture product which predicts harvest and gives various alerts. 
 
