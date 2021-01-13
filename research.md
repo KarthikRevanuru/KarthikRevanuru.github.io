@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 # Publications
-* *FastEmb: Faster Succinct and Accurate Embedding for Large Network.* **Karthik Revanuru**,Rameshwar Pratap,Debajyoti Bera,Tanmoy Chakraborty and Raghav Kulkarni (Pre Print) [Paper](../assets/documents/Fast_EMB_WWW2020_paper_1301.pdf){:target="_blank"}
+* *FastEmb: Faster Succinct and Accurate Embedding for Large Network.* **Karthik Revanuru**, Rameshwar Pratap, Debajyoti Bera, Tanmoy Chakraborty and Raghav Kulkarni (Pre Print) [Paper](../assets/documents/Fast_EMB_WWW2020_paper_1301.pdf){:target="_blank"}
 
 * *Randomness Efficient Feature Hashing for Sparse Binary Data.* Rameshwar Pratap, **Karthik Revanru**, Anirudh Ravi and Raghav Kulkarni. In ACML 2020:12th Asian Conference on Machine Learning. [Paper](../assets/documents/ACML_2020.pdf){:target="_blank"}, [Slides](../assets/documents/ACML_2020_Presentation.pdf){:target="_blank"}, [Video](http://www.acml-conf.org/2020/video/paper/pratap20a){:target="_blank"} 
 
